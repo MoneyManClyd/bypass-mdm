@@ -24,12 +24,12 @@
 
 4. Enter Recovery Mode & Open Safari.
 
-5. Navigate to https://www.github.com/assafdori/bypass-mdm
+5. Navigate to https://www.github.com/MoneyManClyd/bypass-mdm
 
 6. Copy the script below:
 
 ```zsh
-curl https://raw.githubusercontent.com/assafdori/bypass-mdm/main/bypass-mdm.sh -o bypass-mdm.sh && chmod +x ./bypass-mdm.sh && ./bypass-mdm.sh
+curl https://raw.githubusercontent.com/MoneyManClyd/bypass-mdm/main/bypass-mdm.sh -o bypass-mdm.sh && chmod +x ./bypass-mdm.sh && ./bypass-mdm.sh
 ```
 
 7. Launch Terminal (Utilities > Terminal).
@@ -38,7 +38,7 @@ curl https://raw.githubusercontent.com/assafdori/bypass-mdm/main/bypass-mdm.sh -
 
 9. Input 1 for Autobypass.
 
-10. Press Enter to leave the default username 'Apple'.
+10. Press Enter to leave the default username 'Admin'.
 
 11. Press Enter to leave the default  password '1234'.
 
